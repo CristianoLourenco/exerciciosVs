@@ -1,0 +1,5 @@
+c:\users\cristiano\documents\visual studio 2015\Projects\Exercicio22\Exercicio22\bin\Debug\Exercicio22.exe.config
+c:\users\cristiano\documents\visual studio 2015\Projects\Exercicio22\Exercicio22\bin\Debug\Exercicio22.exe
+c:\users\cristiano\documents\visual studio 2015\Projects\Exercicio22\Exercicio22\bin\Debug\Exercicio22.pdb
+c:\users\cristiano\documents\visual studio 2015\Projects\Exercicio22\Exercicio22\obj\Debug\Exercicio22.exe
+c:\users\cristiano\documents\visual studio 2015\Projects\Exercicio22\Exercicio22\obj\Debug\Exercicio22.pdb

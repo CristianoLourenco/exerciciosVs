@@ -1,0 +1,5 @@
+c:\users\cristiano\documents\visual studio 2015\Projects\Exercicio7\Exercicio7\bin\Debug\Exercicio7.exe.config
+C:\Users\Cristiano\Documents\Visual Studio 2015\Projects\Exercicio7\Exercicio7\bin\Debug\Exercicio7.exe
+C:\Users\Cristiano\Documents\Visual Studio 2015\Projects\Exercicio7\Exercicio7\bin\Debug\Exercicio7.pdb
+C:\Users\Cristiano\Documents\Visual Studio 2015\Projects\Exercicio7\Exercicio7\obj\Debug\Exercicio7.exe
+C:\Users\Cristiano\Documents\Visual Studio 2015\Projects\Exercicio7\Exercicio7\obj\Debug\Exercicio7.pdb

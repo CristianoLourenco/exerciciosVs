@@ -1,0 +1,6 @@
+c:\users\cristiano\documents\visual studio 2015\Projects\Exercicio10\Exercicio10\bin\Debug\Exercicio10.exe.config
+c:\users\cristiano\documents\visual studio 2015\Projects\Exercicio10\Exercicio10\bin\Debug\Exercicio10.exe
+c:\users\cristiano\documents\visual studio 2015\Projects\Exercicio10\Exercicio10\bin\Debug\Exercicio10.pdb
+c:\users\cristiano\documents\visual studio 2015\Projects\Exercicio10\Exercicio10\obj\Debug\Exercicio10.csprojResolveAssemblyReference.cache
+c:\users\cristiano\documents\visual studio 2015\Projects\Exercicio10\Exercicio10\obj\Debug\Exercicio10.exe
+c:\users\cristiano\documents\visual studio 2015\Projects\Exercicio10\Exercicio10\obj\Debug\Exercicio10.pdb

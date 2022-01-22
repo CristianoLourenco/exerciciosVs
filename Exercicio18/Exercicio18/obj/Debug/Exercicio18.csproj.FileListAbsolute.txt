@@ -1,0 +1,6 @@
+c:\users\cristiano\documents\visual studio 2015\Projects\Exercicio18\Exercicio18\bin\Debug\Exercicio18.exe.config
+c:\users\cristiano\documents\visual studio 2015\Projects\Exercicio18\Exercicio18\bin\Debug\Exercicio18.exe
+c:\users\cristiano\documents\visual studio 2015\Projects\Exercicio18\Exercicio18\bin\Debug\Exercicio18.pdb
+c:\users\cristiano\documents\visual studio 2015\Projects\Exercicio18\Exercicio18\obj\Debug\Exercicio18.csprojResolveAssemblyReference.cache
+c:\users\cristiano\documents\visual studio 2015\Projects\Exercicio18\Exercicio18\obj\Debug\Exercicio18.exe
+c:\users\cristiano\documents\visual studio 2015\Projects\Exercicio18\Exercicio18\obj\Debug\Exercicio18.pdb

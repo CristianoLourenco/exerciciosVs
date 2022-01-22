@@ -1,0 +1,6 @@
+c:\users\cristiano\documents\visual studio 2015\Projects\Exercicios17\Exercicios17\bin\Debug\Exercicios17.exe.config
+c:\users\cristiano\documents\visual studio 2015\Projects\Exercicios17\Exercicios17\bin\Debug\Exercicios17.exe
+c:\users\cristiano\documents\visual studio 2015\Projects\Exercicios17\Exercicios17\bin\Debug\Exercicios17.pdb
+c:\users\cristiano\documents\visual studio 2015\Projects\Exercicios17\Exercicios17\obj\Debug\Exercicios17.csprojResolveAssemblyReference.cache
+c:\users\cristiano\documents\visual studio 2015\Projects\Exercicios17\Exercicios17\obj\Debug\Exercicios17.exe
+c:\users\cristiano\documents\visual studio 2015\Projects\Exercicios17\Exercicios17\obj\Debug\Exercicios17.pdb

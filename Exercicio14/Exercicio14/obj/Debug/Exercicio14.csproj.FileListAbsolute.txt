@@ -1,0 +1,5 @@
+c:\users\cristiano\documents\visual studio 2015\Projects\Exercicio14\Exercicio14\bin\Debug\Exercicio14.exe.config
+c:\users\cristiano\documents\visual studio 2015\Projects\Exercicio14\Exercicio14\bin\Debug\Exercicio14.exe
+c:\users\cristiano\documents\visual studio 2015\Projects\Exercicio14\Exercicio14\bin\Debug\Exercicio14.pdb
+c:\users\cristiano\documents\visual studio 2015\Projects\Exercicio14\Exercicio14\obj\Debug\Exercicio14.exe
+c:\users\cristiano\documents\visual studio 2015\Projects\Exercicio14\Exercicio14\obj\Debug\Exercicio14.pdb
